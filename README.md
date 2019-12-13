@@ -8,6 +8,4 @@ Create a New Project and choose the Hello World project template.
 Replace files in class.  
 
 ### demo  
-![img](https://github.com/chenjiong000/-Celeste-/blob/master/test.gif)  
-
-![img](https://github.com/chenjiong000/-Celeste-/blob/master/test.gif)
+![img](https://github.com/chenjiong000/-Celeste-/blob/master/test.gif) ![img](https://github.com/chenjiong000/-Celeste-/blob/master/test.gif)
