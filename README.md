@@ -3,7 +3,7 @@ cocos学习记录，仿写《蔚蓝celeste》。
 ## Requirement  
 cocos3.17
 ## Setup to run  
-Download cocos from [](www.cocos.com)  
+Download cocos2dx from [cocos](www.cocos.com)  
 Create a New Project and choose the Hello World project template.  
 Replace files in class.  
 
